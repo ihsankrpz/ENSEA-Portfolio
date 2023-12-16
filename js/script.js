@@ -11,11 +11,15 @@ const writeCards = (project) => {
                     <h3 class="card-title">${project.title}</h3>
                     <p class="card-text">${project.description}</p>
                     <div class="btn-group btn-group-sm" role="group" aria-label="Basic outlined example">
-                        <a href="${project.links[0]}" target="_blank" class="btn btn-outline-dark">
-                                <img src="../assets/code.svg" >
+                        <a href="${
+													project.links[0]
+												}" target="_blank" class="btn btn-outline-dark">
+                                <img src="./assets/code.svg" >
                         </a>
-                        <a href="${project.links[1]}" target="_blank" class="btn btn-outline-dark">
-                                <img src="../assets/server.svg" >
+                        <a href="${
+													project.links[1]
+												}" target="_blank" class="btn btn-outline-dark">
+                                <img src="./assets/server.svg" >
                         </a>
                     </div>   
                 </div>
