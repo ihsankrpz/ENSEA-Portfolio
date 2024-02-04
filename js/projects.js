@@ -32,7 +32,7 @@ const projects = [
 	{
 		title: "Game Manager",
 		description: "This is a simple game manager web page using bootstrap 5 and JavaScript",
-		imageUrl: "screenchot-1.png",
+		imageUrl: "screenshot_1.png",
 		technologies: ["Bootstrap 5","HTML", "CSS", "JavaScript"],
 		links: [
 			"https://github.com/ihsankrpz/Game_Manager",
