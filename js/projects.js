@@ -5,8 +5,8 @@ const projects = [
 		imageUrl: "LoginWP.png",
 		technologies: ["HTML", "CSS", "JavaScript", "Boostrap 5", "MongoDB API", "Restful API"],
 		links: [
-			"https://ihsankrpz.github.io/Login_WebPage_TEST/",
 			"https://github.com/ihsankrpz/Login_WebPage_TEST",
+			"https://ihsankrpz.github.io/Login_WebPage_TEST/",
 		],
 	},
 	{
@@ -35,8 +35,8 @@ const projects = [
 		imageUrl: "screenchot-1.png",
 		technologies: ["Bootstrap 5","HTML", "CSS", "JavaScript"],
 		links: [
-			"https://ihsankrpz.github.io/Game_Manager/",
 			"https://github.com/ihsankrpz/Game_Manager",
+			"https://ihsankrpz.github.io/Game_Manager/",
 		],
 	},
 	{
